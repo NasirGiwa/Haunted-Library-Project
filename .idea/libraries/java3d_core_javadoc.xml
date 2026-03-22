@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="java3d-core-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Jars4Java3D/java3d-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jars4Java3D/java3d-examples.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jars4Java3D/java3d-utils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jars4Java3D/vecmath.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/Jars4Java3D/java3d-core-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jars4Java3D/java3d-examples-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jars4Java3D/java3d-utils-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jars4Java3D/vecmath-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

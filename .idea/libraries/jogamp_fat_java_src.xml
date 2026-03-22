@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jogamp-fat-java-src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Jars4Java3D/jogamp-fat/jogamp-fat-test.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jars4Java3D/jogamp-fat/jogamp-fat.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jars4Java3D/jogamp-fat/jogl-demos.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/Jars4Java3D/jogamp-fat/jogamp-fat-java-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Jars4Java3D/jogamp-fat/jogamp-fat-test-java-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Jars4Java3D/jogamp-fat/jogl-demos-java-src.zip!/" />
+    </SOURCES>
+  </library>
+</component>
